@@ -1,0 +1,16 @@
+C:\Users\arifo\source\repos\Gulyabani\Gulyabani\obj\Release\Gulyabani.csprojAssemblyReference.cache
+C:\Users\arifo\source\repos\Gulyabani\Gulyabani\obj\Release\Gulyabani.Properties.Resources.resources
+C:\Users\arifo\source\repos\Gulyabani\Gulyabani\obj\Release\Gulyabani.csproj.GenerateResource.cache
+C:\Users\arifo\source\repos\Gulyabani\Gulyabani\obj\Release\Gulyabani.csproj.CoreCompileInputs.cache
+C:\Users\arifo\source\repos\Gulyabani\Gulyabani\obj\Release\Gulyabani.Form1.resources
+C:\Users\arifo\source\repos\Gulyabani\Gulyabani\obj\Release\Gulyabani.Form1.agq.resources
+C:\Users\arifo\source\repos\Gulyabani\Gulyabani\obj\Release\Gulyabani.Form1.tr.resources
+C:\Users\arifo\source\repos\Gulyabani\Gulyabani\bin\Release\Gulyabani.exe.config
+C:\Users\arifo\source\repos\Gulyabani\Gulyabani\bin\Release\Gulyabani.exe
+C:\Users\arifo\source\repos\Gulyabani\Gulyabani\bin\Release\Gulyabani.pdb
+C:\Users\arifo\source\repos\Gulyabani\Gulyabani\bin\Release\agq\Gulyabani.resources.dll
+C:\Users\arifo\source\repos\Gulyabani\Gulyabani\bin\Release\tr\Gulyabani.resources.dll
+C:\Users\arifo\source\repos\Gulyabani\Gulyabani\obj\Release\agq\Gulyabani.resources.dll
+C:\Users\arifo\source\repos\Gulyabani\Gulyabani\obj\Release\tr\Gulyabani.resources.dll
+C:\Users\arifo\source\repos\Gulyabani\Gulyabani\obj\Release\Gulyabani.exe
+C:\Users\arifo\source\repos\Gulyabani\Gulyabani\obj\Release\Gulyabani.pdb
